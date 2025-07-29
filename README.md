@@ -26,6 +26,7 @@ This repository benchmarks Llama-3.1 8B, Qwen-2.5B, and Gemma-2B locally to meas
 </br>
 
 3. Qwn 2.5
-
+<img width="693" height="250" alt="image" src="https://github.com/user-attachments/assets/f16968ed-56a5-41f5-9458-8c3962fc8e2f" />
+<img width="600" height="170" alt="image" src="https://github.com/user-attachments/assets/24475d23-fc10-4511-be12-6b5180512d59" />
 </br>
 </br>
