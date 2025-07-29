@@ -4,7 +4,7 @@ Creating a benchmarking code to determine what open-sourced models can the local
 We need to precisely determine whether it is beneficial running a local model. We want to create a benchmarking code to determine what open-sourced models can the machine run and with what approximate latency (tpm) - Llama 3.1 8B, Qwen 2.5, Gemma 2B. 
 This benchmarking code preferable should be efficient and not take too much computing resources and should give as accurate answers as possible.
 
-This repository benchmarks Llama-3.1 8B, Qwen-2.5B, and Gemma-2B locally to measure throughput (tokens per second/minute) and latency.
+This repository benchmarks Llama-3.1 8B, Qwen-2.5, and Gemma-2B locally to measure throughput (tokens per second/minute) and latency.
 
 ## Requirements
 - Python 3.10+
@@ -25,7 +25,7 @@ This repository benchmarks Llama-3.1 8B, Qwen-2.5B, and Gemma-2B locally to meas
 </br>
 </br>
 
-3. Qwn 2.5
+3. Qwen 2.5
 <img width="693" height="250" alt="image" src="https://github.com/user-attachments/assets/f16968ed-56a5-41f5-9458-8c3962fc8e2f" />
 <img width="600" height="170" alt="image" src="https://github.com/user-attachments/assets/24475d23-fc10-4511-be12-6b5180512d59" />
 </br>
